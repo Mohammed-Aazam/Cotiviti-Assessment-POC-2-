@@ -114,6 +114,3 @@ A recorded walkthrough of the slide deck and live POC screenshare, presented on 
 - Prasad, P. (2023). *Healthcare dataset* [Data set]. Kaggle. https://www.kaggle.com/datasets/prasad22/healthcare-dataset
 - Shafqat, W., Byun, Y.-C., & Shafqat, S. (2020). Unsupervised ML approaches for anomaly detection in healthcare claims. *Healthcare, 8*(4), 404. https://doi.org/10.3390/healthcare8040404
 
----
-
-*Submitted to Cotiviti — jesus.hurtado@cotiviti.com*
