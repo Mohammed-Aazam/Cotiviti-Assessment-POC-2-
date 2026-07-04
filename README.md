@@ -30,7 +30,7 @@ cotiviti-intern-assessment/
 ## Deliverables
 
 ### Written Report
-`Cotiviti_Report_Humanized.docx`
+`Cotiviti_Report.pdf`
 
 A 2-page analytical report defining the topic, analyzing relevant industry trends, identifying opportunities and threats, and proposing three strategic recommendations for Cotiviti. APA-formatted bibliography included on page 3.
 
