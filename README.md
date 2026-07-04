@@ -18,7 +18,7 @@ The central insight is that a claim's dollar value is only meaningful in context
 ```
 cotiviti-intern-assessment/
 │
-├── Cotiviti_Report_Humanized.docx     ← Written report (2 pages + APA bibliography)
+├── Cotiviti_Report.docx     ← Written report (2 pages + APA bibliography)
 ├── outlier_claims_insurer.ipynb       ← Hackathon proof-of-concept notebook
 ├── Cotiviti_Presentation.pptx         ← Slide deck with embedded presenter script
 ├── demo_recording.mp4                 ← Video presentation and POC screenshare
